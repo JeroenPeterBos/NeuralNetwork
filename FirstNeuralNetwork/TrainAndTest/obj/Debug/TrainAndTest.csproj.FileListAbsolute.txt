@@ -1,0 +1,10 @@
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\TrainAndTest\bin\Debug\TrainAndTest.exe
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\TrainAndTest\bin\Debug\TrainAndTest.pdb
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\TrainAndTest\obj\Debug\TrainAndTest.csprojResolveAssemblyReference.cache
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\TrainAndTest\obj\Debug\TrainAndTest.Properties.Resources.resources
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\TrainAndTest\obj\Debug\TrainAndTest.csproj.GenerateResource.Cache
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\TrainAndTest\obj\Debug\TrainAndTest.csproj.CoreCompileInputs.cache
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\TrainAndTest\obj\Debug\TrainAndTest.Form2.resources

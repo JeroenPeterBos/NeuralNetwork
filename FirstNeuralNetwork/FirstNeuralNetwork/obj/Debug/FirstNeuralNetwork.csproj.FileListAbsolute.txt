@@ -1,0 +1,14 @@
+C:\Users\Jeroen\Documents\My Files\Programming\NeuralNetwork\FirstNeuralNetwork\FirstNeuralNetwork\bin\Debug\FirstNeuralNetwork.exe.config
+C:\Users\Jeroen\Documents\My Files\Programming\NeuralNetwork\FirstNeuralNetwork\FirstNeuralNetwork\bin\Debug\FirstNeuralNetwork.exe
+C:\Users\Jeroen\Documents\My Files\Programming\NeuralNetwork\FirstNeuralNetwork\FirstNeuralNetwork\bin\Debug\FirstNeuralNetwork.pdb
+C:\Users\Jeroen\Documents\My Files\Programming\NeuralNetwork\FirstNeuralNetwork\FirstNeuralNetwork\obj\Debug\FirstNeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Jeroen\Documents\My Files\Programming\NeuralNetwork\FirstNeuralNetwork\FirstNeuralNetwork\obj\Debug\FirstNeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Jeroen\Documents\My Files\Programming\NeuralNetwork\FirstNeuralNetwork\FirstNeuralNetwork\obj\Debug\FirstNeuralNetwork.exe
+C:\Users\Jeroen\Documents\My Files\Programming\NeuralNetwork\FirstNeuralNetwork\FirstNeuralNetwork\obj\Debug\FirstNeuralNetwork.pdb
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\FirstNeuralNetwork\bin\Debug\FirstNeuralNetwork.exe.config
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\FirstNeuralNetwork\bin\Debug\FirstNeuralNetwork.exe
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\FirstNeuralNetwork\bin\Debug\FirstNeuralNetwork.pdb
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\FirstNeuralNetwork\obj\Debug\FirstNeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\FirstNeuralNetwork\obj\Debug\FirstNeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\FirstNeuralNetwork\obj\Debug\FirstNeuralNetwork.exe
+C:\Users\Jeroen\Documents\Prive\Projects\NeuralNetwork\FirstNeuralNetwork\FirstNeuralNetwork\obj\Debug\FirstNeuralNetwork.pdb
